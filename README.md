@@ -46,6 +46,10 @@ Repository Structure
 
 07_SEO_Quality_Checklist.md – SEO quality checklist.
 
+08_AI_Generated_Examples.md – Sample AI-generated SEO content.
+
+09_Reusable_Prompt_Demo.md – Demonstration using a second business category.
+
 Project Workflow
 
 Provide business information and target location.
