@@ -16,7 +16,27 @@ Objective:
 
 Generate a complete SEO content strategy and blog content pack for a business website based on the business details and target audience provided.
 
-Input Details
+Input Details (Editable for Any Business)
+
+Users can change the following details according to their business:
+
+Business Name: [Enter Business Name]
+
+Business Type: [Enter Business Category]
+
+Target Location: [Enter City or Location]
+
+Target Audience: [Enter Target Audience]
+
+Website Type: [Enter Website Type]
+
+Main Topic: [Enter Main Topic]
+
+Language: English
+
+Writing Style: Simple, engaging, informative, and professional
+
+Example Input – Crumbz Cafe
 
 Business Name: Crumbz Cafe
 
@@ -30,9 +50,7 @@ Website Type: Business Website
 
 Main Topic: Cafe experiences, food, coffee, and hangouts
 
-Language: English
-
-Writing Style: Simple, engaging, informative, and professional
+Use the editable input fields to generate SEO content for different businesses. The Crumbz Cafe details are provided only as a demonstration.
 
 3. Required Output
 
